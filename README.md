@@ -1,2 +1,3 @@
-# c-programming-basics
-only basics of c programming so that lets make us familiar with C. all functions switch , ternary, loops, define and many others 
+# C-programming-basics
+
+This repository contains C programs based on basic operators, functions, loops, ternary operators, conditional statements and other things.
